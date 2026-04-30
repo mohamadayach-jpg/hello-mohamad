@@ -1,0 +1,3 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="AASvTJf@mdvaTjVe!!%F" x="0" y="0"></block><block type="pxt-on-start" id="S?wFGk5;pd{MJj+^US0P" x="265" y="237"><comment pinned="true" h="224" w="488">Created by:Mohamad Ayach
+Created on: April 24, 2026
+This program says "hello Mohamad"</comment><data>{"commentRefs":[],"fieldData":{"~commentOffsetX":"16","~commentOffsetY":"16"}}</data><statement name="HANDLER"><block type="device_print_message" id="Gt`OOcdkxxe+0i^DeZEw"><value name="text"><shadow type="text" id="Gn322~3he,HR3[yY*Jj+"><field name="TEXT">Hello Mohamad!</field></shadow></value></block></statement></block></xml>
